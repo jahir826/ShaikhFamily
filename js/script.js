@@ -6,7 +6,7 @@ const familyData = {
     familyHead: {
         name: "Shaikh Basheer",
         role: "Family Head",
-        image: "images/dada.jpeg"
+        image: "images/Dada.jpeg"
     },
     1: {
     name: "Shaikh Khalil Bhai",
